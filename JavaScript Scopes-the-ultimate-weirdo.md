@@ -77,3 +77,23 @@
 
     console.log(window.x); // It will give us 30
 ```
+
+> If we use use strict mode than it will give us an error and it will safe us from accidentally throwing an error.
+
+```
+    "use strict";
+    // This is called window scope or root
+
+    function myFun(){
+        // This is called function world
+        var y = 20;
+
+        x = 30
+
+        console.log(`${x} from my function`)
+        // Here in this code it will output 30 because it's inherit from it's parents.
+    }
+
+    console.log(window.x); // It will give us 30
+```
+> Last of all if we use var when declaring a variable than it will be safe for us.
