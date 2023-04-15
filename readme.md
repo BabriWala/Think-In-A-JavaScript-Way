@@ -1,0 +1,1 @@
+# Think In A JavaScript Way
