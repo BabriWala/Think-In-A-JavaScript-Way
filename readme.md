@@ -1,1 +1,1 @@
-# Think In A JavaScript Way
+# Think In A JavaScript Waygi
