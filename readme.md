@@ -1,1 +1,1 @@
-# Think In A JavaScript Way
+# https://www.freecodecamp.org/news/javascript-lexical-scope-tutorial/
